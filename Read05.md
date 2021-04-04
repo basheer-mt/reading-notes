@@ -52,12 +52,11 @@ A loop is block of code that will keep running as long as the condition is true.
 Loop through the indices of an array to collect the car names from the cars array:
 
 
-| var cars = ["BMW", "Volvo", "Saab", "Ford"];
+>var cars = ["BMW", "Volvo", "Saab", "Ford"];
 v/ar text = "";
 var i = 0;
 while (i < cars.length) {
   text += cars[i] + "<br>";
   i++;
-}  |
----  
+}   
 
