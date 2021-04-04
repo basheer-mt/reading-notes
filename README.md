@@ -16,3 +16,7 @@
 
 7.  [Read: 06 - Design web pages with CSS](https://basheer-mt.github.io/reading-notes/Read06)
 
+8. [Linux](https://basheer-mt.github.io/reading-notes/linux)
+
+9. [GrowthMindSet](https://basheer-mt.github.io/reading-notes/GrowthMind)
+
