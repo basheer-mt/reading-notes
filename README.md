@@ -3,7 +3,7 @@
 >#### My name is Mohammad Basheer, also known as "Mohammad Alkiswani!
  I studied Mechatronics Engineering in the University of Jordan. I'm shifting career to the coding world, building my skills and knowledge in the Web & App Development.
     
-    I feel priveliged & honored to be among this group of student, TA's, and Instructor.
+    I feel priveliged & honored to be among this group of students, TA's, and Instructor.
 
 ### Grwoth Mindset for me is the ability to adapt to any changes and obstacles that I may experience!
 
