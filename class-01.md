@@ -24,8 +24,4 @@ Note that the <span style="color:#0e49b5">**HTML**</span> code is in <span style
 
 |  | |
 | - | - |
-| ![HTML CSS](./image/html_code.png) | ![HTML CSS](./image/word.png) | 
-
->  ![HTML CSS](./image/html_code.png)
-
->  ![HTML CSS](./image/word.png)
+|  ![HTML CSS](./image/html_code.png) |  ![HTML CSS](./image/word.png) | 
