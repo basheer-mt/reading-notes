@@ -9,6 +9,35 @@
 
 ![Hello Word](https://lauruscollege.edu/wp-content/uploads/2020/03/LaurusCollegGrowthMindsetFeatureImagev01-1024x614.jpg)
 
+_________________________________________________
+_________________________________________________
+_________________________________________________
+
+#### Here are the Tables of Content of my reading notes as follows:
+# Code 201 Reading Notes:
+| Subject    |  Link|
+| ---------  | ------ | 
+| Read: 01 | Will be updated during the course|
+| Read: 02 | Will be updated during the course|
+| Read: 03 | Will be updated during the course|
+| Read: 04 | Will be updated during the course|
+| Read: 05 | Will be updated during the course|
+| Read: 06 | Will be updated during the course|
+| Read: 07 | Will be updated during the course|
+| Read: 08 | Will be updated during the course|
+| Read: 09 | Will be updated during the course|
+| Read: 10 | Will be updated during the course|
+| Read: 11 | Will be updated during the course|
+| Read: 12 | Will be updated during the course| 
+| Read: 13 | Will be updated during the course|
+| Read: 14 | Will be updated during the course|
+| Read: 15 | Will be updated during the course|
+_________________________________________________
+_________________________________________________
+_________________________________________________
+
+# Code 102 Reading Notes
+
 | Subject    |  Link|
 | ---------  | ------ | 
 | Read: 01 | [The Coder's Computer](https://basheer-mt.github.io/reading-notes/Read01) |
