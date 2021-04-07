@@ -16,11 +16,16 @@ ____________________________________________________
 
 ____________________________________________________
 
+# <span style="color:#35013f">**Structure**</span> 
 ## <span style="color:#28527a">**HTML Describes the Structure of Pages**</span>
 
 #### This example explains how we see the web page and how the HTML code was written to display this.   
 Note that the <span style="color:#0e49b5">**HTML**</span> code is in <span style="color:#0e49b5">**blue**</span>, and the <span style="color:#000000">**text**</span> you see on screen is in <span style="color:#000000">**black.**</span>
 
-![HTML CSS](./image/html_code.png)
+|  | |
+| - | - |
+| ![HTML CSS](./image/html_code.png) | ![HTML CSS](./image/word.png) | 
 
-![HTML CSS](./image/word.png)
+>  ![HTML CSS](./image/html_code.png)
+
+>  ![HTML CSS](./image/word.png)
