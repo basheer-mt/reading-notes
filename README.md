@@ -17,7 +17,7 @@ _________________________________________________
 # Code 201 Reading Notes:
 | Subject    |  Link|
 | ---------  | ------ | 
-| Read: 01 | Will be updated during the course |
+| class-01 | Will be updated during the course |
 | Read: 02 | Will be updated during the course | 
 | Read: 03 | Will be updated during the course |
 | Read: 04 | Will be updated during the course |
