@@ -17,21 +17,21 @@ _________________________________________________
 # Code 201 Reading Notes:
 | Subject    |  Link|
 | ---------  | ------ | 
-| class-01 | Will be updated during the course |
-| Read: 02 | Will be updated during the course | 
-| Read: 03 | Will be updated during the course |
-| Read: 04 | Will be updated during the course |
-| Read: 05 | Will be updated during the course |
-| Read: 06 | Will be updated during the course |
-| Read: 07 | Will be updated during the course |
-| Read: 08 | Will be updated during the course |
-| Read: 09 | Will be updated during the course |
-| Read: 10 | Will be updated during the course |
-| Read: 11 | Will be updated during the course |
-| Read: 12 | Will be updated during the course |
-| Read: 13 | Will be updated during the course |
-| Read: 14 | Will be updated during the course |
-| Read: 15 | Will be updated during the course |
+| class-01 | [HTML & CSS](https://basheer-mt.github.io/reading-notes/class-01) |
+| Read: 02 | [Will be updated during the course]() | 
+| Read: 03 | [Will be updated during the course]() |
+| Read: 04 | [Will be updated during the course]() |
+| Read: 05 | [Will be updated during the course]() |
+| Read: 06 | [Will be updated during the course]() |
+| Read: 07 | [Will be updated during the course]() |
+| Read: 08 | [Will be updated during the course]() |
+| Read: 09 | [Will be updated during the course]() |
+| Read: 10 | [Will be updated during the course]() |
+| Read: 11 | [Will be updated during the course]() |
+| Read: 12 | [Will be updated during the course]() |
+| Read: 13 | [Will be updated during the course]() |
+| Read: 14 | [Will be updated during the course]() |
+| Read: 15 | [Will be updated during the course]() |
 _________________________________________________
 _________________________________________________
 _________________________________________________
