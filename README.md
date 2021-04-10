@@ -32,6 +32,9 @@ _________________________________________________
 | Read: 13 | [Will be updated during the course]() |
 | Read: 14 | [Will be updated during the course]() |
 | Read: 15 | [Will be updated during the course]() |
+
+
+And below are the notes from the 102.
 _________________________________________________
 _________________________________________________
 _________________________________________________
