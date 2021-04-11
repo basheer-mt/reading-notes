@@ -19,8 +19,8 @@ _________________________________________________
 
 | Subject    |  Link|
 | ---------  | ------ | 
-| Read-01 | [The Duckett HTML book:](https://basheer-mt.github.io/reading-notes/Read-01) |
-| Read-02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://basheer-mt.github.io/reading-notes/Read-02)| 
+| class-01 | [The Duckett HTML book:](https://basheer-mt.github.io/reading-notes/class-01) |
+| class-02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://basheer-mt.github.io/reading-notes/class-02)| 
 | Read-03 | [HTML Lists, CSS Boxes, JS Control Flow](https://basheer-mt.github.io/reading-notes/Read-03)|
 | Read-04 | [HTML Links, CSS Layout, JS Functions](https://basheer-mt.github.io/reading-notes/Read-04) |
 | Read-05 | [HTML Images; CSS Color & Text](https://basheer-mt.github.io/reading-notes/Read-05) |
