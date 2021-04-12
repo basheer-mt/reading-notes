@@ -189,6 +189,10 @@ boxes containing text and the leading.
 borders and rounded borders.
 
 &nbsp;
+<hr>
+<hr>
+<hr>
+&nbsp;
 
 #  <span style="color:#93329e">***Programming with JavaScript***</span>
 
