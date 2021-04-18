@@ -94,20 +94,31 @@ KNOWN AS METHODS`
 
 > Literal notation is the easiest and most popular way to creat objects.
 
-|JAVASCRIPT |
-|-|
-|var hotel = {
-name: 'Quay',
-rooms : 40,
-booked: 25,
-checkAvailability: function() {
-return this.rooms - this.booked;
-  &nbsp; }
-} ;
-var elName = document .getElementByld('hotelName');
-elName.textContent =hotel .name;
-var elRooms = document.getElementByid{'rooms');
-elRooms .textContent = hotel .checkAvailability();|
+JAVASCRIPT 
+
+`var hotel = {`
+
+`name: 'Quay',`
+
+`rooms : 40,`
+
+`booked: 25,`
+
+`checkAvailability: function() {`
+
+`return this.rooms - this.booked;`
+
+`}`
+
+`} ;`
+
+`var elName = document .getElementByld('hotelName');`
+
+`elName.textContent =hotel .name;`
+
+`var elRooms = document.getElementByid{'rooms');`
+
+`elRooms .textContent = hotel .checkAvailability();`
 
 &nbsp;
 
