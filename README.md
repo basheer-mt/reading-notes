@@ -28,12 +28,12 @@ _________________________________________________
 | Read-07 | [HTML Tables; JS Constructor Functions](https://basheer-mt.github.io/reading-notes/Read-07) |
 | Read-08 | [More CSS Layout](https://basheer-mt.github.io/reading-notes/Read-08)|
 | Read-09 | [Forms and Events](https://basheer-mt.github.io/reading-notes/Read-09)|
-| Read-10 | [JS Debugging](https://basheer-mt.github.io/Read-10)|
-| Read-11 | [Assorted Topics](https://basheer-mt.github.io/Read-11) |
-| Read-12 | [Docs for the HTML `<canvas>` Element & Chart.js](https://basheer-mt.github.io/Read-12) |
-| Read-13 | [Local Storage](https://basheer-mt.github.io/Read-13) |
-| Read-14a | [CSS Transforms, Transitions, and Animations](https://basheer-mt.github.io/Read-14a) |
-| Read-14b | [What Google Learned About Teams](https://basheer-mt.github.io/Read-14b) |
+| Read-10 | [JS Debugging](https://basheer-mt.github.io/reading-notes/Read-10)|
+| Read-11 | [Assorted Topics](https://basheer-mt.github.io/reading-notes/Read-11) |
+| Read-12 | [Docs for the HTML `<canvas>` Element & Chart.js](https://basheer-mt.github.io/reading-notes/Read-12) |
+| Read-13 | [Local Storage](https://basheer-mt.github.io/reading-notes/Read-13) |
+| Read-14a | [CSS Transforms, Transitions, and Animations](https://basheer-mt.github.io/reading-notes/Read-14a) |
+| Read-14b | [What Google Learned About Teams](https://basheer-mt.github.io/reading-notes/Read-14b) |
 
 
 
